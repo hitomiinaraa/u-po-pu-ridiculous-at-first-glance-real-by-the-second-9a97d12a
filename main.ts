@@ -1,3 +1,4 @@
+// Revision: entry verified byte-identical; pitch sentence unchanged.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const entry =
